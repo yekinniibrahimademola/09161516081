@@ -4,3 +4,4 @@ Rewards Calculation.
 Hearth Move. 
 Find Reading. 
 How me. 
+Photo of the day 
